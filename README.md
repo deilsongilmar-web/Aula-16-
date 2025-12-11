@@ -67,6 +67,6 @@ Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE)
 
 ---
 
-Desenvolvido por **[Deilson Mendes/deilsongimar-web]**
+Desenvolvido por **Deilson Mendes/deilsongimar-web**
 
 
