@@ -46,7 +46,7 @@ Como este projeto consiste em um único arquivo HTML que roda no lado do cliente
 
 2.  **Abra o arquivo:**
     * Simplesmente clique duas vezes no arquivo `index.html`.
-    * Ou abra o arquivo no seu navegador (ex: `file:///caminho/para/o/projeto/index.html`).
+    * Abra o arquivo aqui: https://deilsongilmar-web.github.io/Aula-16-/`).
 
 O projeto será carregado e você poderá começar a buscar CEPs imediatamente.
 
